@@ -1,0 +1,3 @@
+[submodule "RandStudent"]
+	path = RandStudent
+	url = https://github.com/yhzhan/RandStudent.git
